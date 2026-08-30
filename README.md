@@ -23,12 +23,12 @@ Em uma frase transformar dados operacionais (entrega, atendimento, reclamações
 
 **Arquivo desafio_nps_fase_1.csv — 1 linha por pedido (customer_id pode se repetir). Principais grupos de variáveis:**
 
-    - Perfil do cliente — idade, região, tempo de casa
-    - Pedido — valor, itens, desconto, parcelas
-    - Logística — tempo de entrega, atraso, frete, tentativas
-    - Atendimento — contatos, tempo de resolução, reclamações
-    - Satisfação — CSAT interno e nps_score (0-10, variável-base)
-    - Pós-venda — repeat_purchase_30d (recompra em até 30 dias)
+    Perfil do cliente — idade, região, tempo de casa
+    Pedido — valor, itens, desconto, parcelas
+    Logística — tempo de entrega, atraso, frete, tentativas
+    Atendimento — contatos, tempo de resolução, reclamações
+    Satisfação — CSAT interno e nps_score (0-10, variável-base)
+    Pós-venda — repeat_purchase_30d (recompra em até 30 dias)
 
 ### 3. Metodologia utilizada
 1.	Ingestão e diagnóstico — carga do CSV, inspeção inicial, checagem de nulos/duplicidades e regras de negócio (NPS 0-10, valores não negativos etc.).
