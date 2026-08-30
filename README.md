@@ -1,6 +1,7 @@
 
 <div align="center"> 
-    # RESUMO EXECUTIVO 
+   **RESUMO EXECUTIVO**
+</div>    
 #### Modelo Preditivo de NPS
 #### Objetivo, base de dados, metodologia e como reproduzir os resultados
 #### Tech Challenge · Fase 1 · Ciência de Dados
