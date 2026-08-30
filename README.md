@@ -1,8 +1,8 @@
 
 # RESUMO EXECUTIVO
-## Modelo Preditivo de NPS
-## Objetivo, base de dados, metodologia e como reproduzir os resultados
-## Tech Challenge · Fase 1 · Ciência de Dados
+### Modelo Preditivo de NPS
+### Objetivo, base de dados, metodologia e como reproduzir os resultados
+### Tech Challenge · Fase 1 · Ciência de Dados
 
 ### 1. Objetivo do projeto
 Antecipar clientes com alta probabilidade de virarem detratores (NPS baixo), usando dados do pedido — sem esperar a resposta da pesquisa de satisfação.
