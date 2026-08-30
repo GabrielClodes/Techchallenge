@@ -17,9 +17,9 @@ Antecipar clientes com alta probabilidade de virarem detratores (NPS baixo), usa
 Em uma frase transformar dados operacionais (entrega, atendimento, reclamações) em um modelo que sinaliza risco de insatisfação a tempo de agir.
 
 ### 2. Descrição da base de dados
-2.500 pedidos / linhas	
-19 variáveis
-0% nulos/duplicados
+ - 2.500 pedidos / linhas	
+ - 19 variáveis
+ - 0% nulos/duplicados
 
 **Arquivo desafio_nps_fase_1.csv — 1 linha por pedido (customer_id pode se repetir). Principais grupos de variáveis:**
     • Perfil do cliente — idade, região, tempo de casa
