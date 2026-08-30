@@ -22,6 +22,7 @@ Em uma frase transformar dados operacionais (entrega, atendimento, reclamações
  - 0% nulos/duplicados
 
 **Arquivo desafio_nps_fase_1.csv — 1 linha por pedido (customer_id pode se repetir). Principais grupos de variáveis:**
+
     - Perfil do cliente — idade, região, tempo de casa
     - Pedido — valor, itens, desconto, parcelas
     - Logística — tempo de entrega, atraso, frete, tentativas
