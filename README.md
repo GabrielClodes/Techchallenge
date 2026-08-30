@@ -34,12 +34,12 @@ Maior recall na classe detrator (identifica mais clientes insatisfeitos de fato)
 
 ### 4. Como reproduzir os resultados
 
-   ** • **Pré-requisitos** — Python 3 com pandas, numpy, matplotlib, seaborn, scipy, scikit-learn e joblib.
+ • **Pré-requisitos** — Python 3 com pandas, numpy, matplotlib, seaborn, scipy, scikit-learn e joblib.
    
-   ** • **Dados** — posicionar ***desafio_nps_fase_1.csv***
+ • **Dados** — posicionar ***desafio_nps_fase_1.csv***
    
-   ** •**Execução** — rodar as células em ordem sequencial (1 a 14); cada seção depende das anteriores.
+ • **Execução** — rodar as células em ordem sequencial (1 a 14); cada seção depende das anteriores.
     
-   ** • **Reprodutibilidade** — garantida por random_state=42 no split e no Random Forest.
+ • **Reprodutibilidade** — garantida por random_state=42 no split e no Random Forest.
     
-   ** • **Saída gerada** — tabelas em reports/tables/ e modelo treinado em models/nps_detractor_model.pkl.
+ • **Saída gerada** — tabelas em reports/tables/ e modelo treinado em models/nps_detractor_model.pkl.
